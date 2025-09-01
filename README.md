@@ -1,5 +1,4 @@
 # Requirement-Analysis-in-Software-Development.
-# Requirement Analysis in Software Development
 
 This repository provides a structured overview of requirement analysis in software development.  
 It explains key concepts, importance, activities, types of requirements, and includes diagrams and examples to illustrate how requirements shape successful software projects.
