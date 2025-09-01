@@ -61,11 +61,6 @@ Non-functional requirements describe **how the system should perform** rather th
 - User data must be encrypted to ensure security.
 
 
-git add alx-booking-uc.png README.md
-git commit -m "Added use case diagram image"
-git push origin main
-
-
 ## Use Case Diagrams
 
 Use Case Diagrams visually represent the interaction between users (actors) and the system.  
