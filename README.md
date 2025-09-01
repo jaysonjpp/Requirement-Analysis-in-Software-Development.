@@ -68,7 +68,7 @@ They help clarify system functionality at a high level.
 
 Below is a sample Use Case Diagram for the Booking Management System:
 
-![Use Case Diagram](./alx-booking-uc.png)
+![./alx-booking-uc.png]()
 
 ## Acceptance Criteria
 
