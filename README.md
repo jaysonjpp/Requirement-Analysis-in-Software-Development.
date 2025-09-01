@@ -66,9 +66,8 @@ Non-functional requirements describe **how the system should perform** rather th
 Use Case Diagrams visually represent the interaction between users (actors) and the system.  
 They help clarify system functionality at a high level.
 
-Below is a sample Use Case Diagram for the Booking Management System:
+![Use Case Diagram](./alx-booking-uc.png)
 
-![./alx-booking-uc.png]()
 
 ## Acceptance Criteria
 
